@@ -1,0 +1,6 @@
+Source run: results/20260328_152332/ (28 March 2026)
+Historical classroom grading suite; not rerun for this public snapshot.
+Python 3.13.9 on Windows; pytest 9.0.2.
+KV cache: 21 passed in 4.83 s
+LoRA: 33 passed in 6.05 s
+Machine-specific paths and the grading suite itself are omitted.
