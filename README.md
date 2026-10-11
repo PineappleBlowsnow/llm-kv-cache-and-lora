@@ -1,4 +1,6 @@
-# LLM Efficiency: KV Caching and LoRA
+# Implementing KV Caching and LoRA for Transformers
+
+**MVA course — LLMs for Code and Proof**
 
 **KV-cached decoding and low-rank adaptation implemented in PyTorch on a small minGPT decoder.** This is Ying JIN's MVA *LLMs for Code and Proof* coursework, organized as a compact, inspectable implementation portfolio.
 
@@ -70,3 +72,6 @@ Portfolio preparation on **26 September 2026** parsed all included Python source
 | `evidence/` | Historical summaries and synthetic-task logs |
 
 Original classroom source: [llm-2026/llm-efficiency-PineappleBlowsnow](https://github.com/llm-2026/llm-efficiency-PineappleBlowsnow) (access may be restricted). The original [Apache 2.0 license](LICENSE) is preserved, with the upstream [minGPT MIT notice](LICENSE-minGPT). See [PROVENANCE.md](PROVENANCE.md) for credits and packaging changes. Handouts, classroom graders, submission scripts, notebooks, environments, personal paths and generated checkpoints are excluded.
+
+
+[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
