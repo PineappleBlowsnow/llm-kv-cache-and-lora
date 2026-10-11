@@ -74,4 +74,4 @@ Portfolio preparation on **26 September 2026** parsed all included Python source
 Original classroom source: [llm-2026/llm-efficiency-PineappleBlowsnow](https://github.com/llm-2026/llm-efficiency-PineappleBlowsnow) (access may be restricted). The original [Apache 2.0 license](LICENSE) is preserved, with the upstream [minGPT MIT notice](LICENSE-minGPT). See [PROVENANCE.md](PROVENANCE.md) for credits and packaging changes. Handouts, classroom graders, submission scripts, notebooks, environments, personal paths and generated checkpoints are excluded.
 
 
-[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
+[Back to Ying Jin's project directory](https://github.com/PineappleBlowsnow#mva-projects)
